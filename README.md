@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Fábio Hidetoshi 
 
-- 🌱 Estudando HTML, CSS e JavaScript
+- 🌱 Estudando NodeJS
 - 📫 Email: fhaperes@gmail.com 
 - 😄 Pronouns: ele/dele
 
