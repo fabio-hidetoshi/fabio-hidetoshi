@@ -20,12 +20,13 @@
 ### FrontEnd
 [![My Skills](https://skillicons.dev/icons?i=react,vite,figma)](https://skillicons.dev)
 <br>
+
+### Minhas Ferramentas:
   
 [<img height="48px" width="48px" alt="Icone Postman" src="https://i.postimg.cc/QNyBTNVk/postman.png"/>](https://www.postman.com)
 [<img height="48px" width="48px" alt="Icone Git" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg"/>](https://git-scm.com)
 [<img height="48px" width="48px" alt="Icone gcp	" src="https://skillicons.dev/icons?i=gcp"/>](https://nodejs.org)
 <img height="48px" width="48px" alt="Icone gcp	" src="https://skillicons.dev/icons?i=firebase"/>
-<img height="48px" width="48px" alt="Icone gcp	" src="https://skillicons.dev/icons?i=ubuntu"/>
 <img height="48px" width="48px" alt="Icone gcp	" src="https://skillicons.dev/icons?i=vscode"/>
 <br>
 <br>
