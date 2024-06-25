@@ -14,7 +14,7 @@
   <img align="center" alt="Fábio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Fábio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Fábio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/> 
+  <img width="30" height="30" src="https://img.icons8.com/color/48/git.png" alt="git"/> 
 </div>
   
   ##
