@@ -18,10 +18,29 @@
 <br>
 
 ### FrontEnd
-[![My Skills](https://skillicons.dev/icons?i=react,bootstrap,vite,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,vite,figma)](https://skillicons.dev)
 <br>
   
   ##
+
+  [<img height="48px" width="48px" alt="Icone Postman" src="https://i.postimg.cc/QNyBTNVk/postman.png"/>](https://www.postman.com)
+[<img height="48px" width="48px" alt="Icone Git" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg"/>](https://git-scm.com)
+[<img height="48px" width="48px" alt="Icone gcp	" src="https://skillicons.dev/icons?i=gcp"/>](https://nodejs.org)
+<img height="48px" width="48px" alt="Icone gcp	" src="https://skillicons.dev/icons?i=firebase"/>
+<img height="48px" width="48px" alt="Icone gcp	" src="https://skillicons.dev/icons?i=ubuntu"/>
+<img height="48px" width="48px" alt="Icone gcp	" src="https://skillicons.dev/icons?i=vscode"/>
+<br>
+<br>
+
+
+#### Experiência Profissional:
+Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN9iGhD6F-34TbUGWcZIk4cOKWBYdM_NghoAI4t3pYww&s"/>](https://alest.com.br/)
+**Estágio em Desenvolvimento** \
+[**Alest**](https://alest.com.br/) • Desenvolvedor de software \
+Competências: `NodeJS`, `Google Cloud Plataform`, `React`, `TypeScript`,
+<br/> `GraphQL`, `Rest API`, `Firebase`, `P.O.O`
   
 <div>
   <a href = "mailto:fhaperes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
