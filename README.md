@@ -11,7 +11,7 @@
 </div>
   
  ### Trabalho atualmente com:
-[![My Skills](https://skillicons.dev/icons?i=nodejs,js,ts,express,jest,gcp,env)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,js,ts,express,python,jest,gcp,env)](https://skillicons.dev)
 
 ### BackEnd
 [![My Skills](https://skillicons.dev/icons?i=nodejs,js,ts,python)](https://skillicons.dev)
